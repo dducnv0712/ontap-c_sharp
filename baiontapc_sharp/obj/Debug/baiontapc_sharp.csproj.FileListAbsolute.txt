@@ -1,0 +1,6 @@
+E:\C#_learning\baiontapc_sharp\baiontapc_sharp\bin\Debug\baiontapc_sharp.exe
+E:\C#_learning\baiontapc_sharp\baiontapc_sharp\bin\Debug\baiontapc_sharp.pdb
+E:\C#_learning\baiontapc_sharp\baiontapc_sharp\obj\Debug\baiontapc_sharp.csprojAssemblyReference.cache
+E:\C#_learning\baiontapc_sharp\baiontapc_sharp\obj\Debug\baiontapc_sharp.csproj.CoreCompileInputs.cache
+E:\C#_learning\baiontapc_sharp\baiontapc_sharp\obj\Debug\baiontapc_sharp.exe
+E:\C#_learning\baiontapc_sharp\baiontapc_sharp\obj\Debug\baiontapc_sharp.pdb
