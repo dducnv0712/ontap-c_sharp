@@ -17,7 +17,7 @@ namespace baiontapc_sharp
           var studentController = new StudentController();
 
           var st = studentController.CreateStudent();
-          
+          Console.WriteLine("Ma SV----------|----------Ho Ten----------|----------Ngay Sinh-----------|----------SĐT----------|----------Email----------|----------Trang Thai");
           Console.WriteLine(st.ToString());
         }
     }

@@ -24,6 +24,8 @@ namespace baiontapc_sharp.Controllers
            var hoTen = Console.ReadLine();
            Console.WriteLine("Nhập Ngày Sinh");
            var ngaySinh = DateTime.Parse(Console.ReadLine());
+           Console.WriteLine("Nhập SĐT");
+           var phone = Console.ReadLine();
            Console.WriteLine("Nhập Email");
            var email = Console.ReadLine();
            Console.WriteLine("Trạng Thái");
@@ -33,6 +35,7 @@ namespace baiontapc_sharp.Controllers
                RollNumber = maSv,
                FullName = hoTen,
                Birthday = ngaySinh,
+               Phone = phone,
                Email = email,
                Status = trangThai
            };

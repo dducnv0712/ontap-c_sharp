@@ -16,6 +16,7 @@ namespace baiontapc_sharp.Models
 
         public bool IsNewStudent()
         {
+            //
             return true;
         }
 
@@ -27,7 +28,7 @@ namespace baiontapc_sharp.Models
         
         public override string ToString()
         {
-            return $"{RollNumber}\t\t{FullName}\t\t{Status}";
+            return $"{RollNumber}----------|----------{FullName}----------|----------{Birthday}----------|----------{Phone}----------|----------{Email}----------|----------{Status}";
         }
     }
     
